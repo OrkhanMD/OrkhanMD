@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @OrkhanMD
+- 👀 I’m interested in DataScience, ML and AI. 
+- 🌱 I’m currently learning ML
